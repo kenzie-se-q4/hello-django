@@ -49,8 +49,8 @@ To do this, you'll need the following:
 │   ├── urls.py
 │   └── wsgi.py
 ├── manage.py
-├── poetry.lock
-├── pyproject.toml
+├── Pipfile
+├── Pipfile.lock
 └── templates
     └── index.html
 </pre>
